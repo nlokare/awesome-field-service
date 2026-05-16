@@ -4,7 +4,7 @@
 
 Field service management (FSM) covers everything from job scheduling and dispatching to invoicing, parts tracking, and customer communication for businesses that send technicians into the field. This list focuses on **production-ready tools** with active maintenance, particularly highlighting the **Danish and Nordic** ecosystem where commercial FSM solutions are tightly integrated with local ERP and tax systems.
 
-Maintained by [FieldService](https://fieldservice.dk) — a Danish FSM platform integrated with e-conomic, Uniconta, and Microsoft 365. We open source what we learn.
+Maintained by [FieldService](https://fieldservice.dk?utm_source=github&utm_medium=oss&utm_campaign=awesome-fs) — a Danish FSM platform integrated with [e-conomic](https://fieldservice.dk/integrationer/e-conomic/?utm_source=github&utm_medium=oss&utm_campaign=awesome-fs), [Uniconta](https://fieldservice.dk/integrationer/uniconta/?utm_source=github&utm_medium=oss&utm_campaign=awesome-fs), and Microsoft 365. We open source what we learn.
 
 ## Contents
 
@@ -63,7 +63,7 @@ Maintained by [FieldService](https://fieldservice.dk) — a Danish FSM platform 
 
 ## Danish & Nordic Platforms 🇩🇰
 
-- [FieldService](https://fieldservice.dk) - Danish FSM with native e-conomic, Uniconta, and Microsoft 365 integration. Built for Danish service SMBs.
+- [FieldService](https://fieldservice.dk?utm_source=github&utm_medium=oss&utm_campaign=awesome-fs-listing) - Danish FSM with native e-conomic, Uniconta, and Microsoft 365 integration. Built for Danish service SMBs.
 - [Apacta](https://apacta.com) - Construction-focused Danish FSM with strong project management.
 - [Ordrestyring.dk](https://ordrestyring.dk) - Order-centric FSM for Danish trade businesses.
 - [Hallerup](https://hallerup.net) - Service management with focus on Danish HVAC/plumbing.
@@ -143,7 +143,7 @@ Maintained by [FieldService](https://fieldservice.dk) — a Danish FSM platform 
 - [Field Service News](https://fieldservicenews.com) - Largest dedicated FSM publication.
 - [The Service Council Blog](https://www.theservicecouncil.com/blog) - Industry thought leadership.
 - [FieldServiceDigital](https://www.fieldservicedigital.com) - Technology-focused FSM coverage.
-- [FieldService Blog](https://fieldservice.dk/blog) - Danish-language FSM trends and case studies.
+- [FieldService Blog](https://fieldservice.dk/blog/?utm_source=github&utm_medium=oss&utm_campaign=awesome-fs-blog) - Danish-language FSM trends and case studies.
 - [Service Strategies](https://servicestrategies.com/blog/) - Service operations and customer success.
 - [TSIA Blog](https://www.tsia.com/resources/blog) - Technology services industry research.
 
