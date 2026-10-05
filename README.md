@@ -176,7 +176,7 @@ Maintained by [FieldService](https://fieldservice.dk?utm_source=github&utm_mediu
 ## Tools for Service Businesses
 
 - [Calendly](https://calendly.com) - Customer-facing booking, often used as a lightweight scheduler add-on.
-- [FieldServiceScout](https://www.fieldservicescout.com) - Independent comparison of Jobber, Housecall Pro, and other FSM platforms.
+- [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) - Independent comparison of Jobber, Housecall Pro, and other FSM platforms.
 - [Cal.com](https://cal.com) - Open source booking platform.
 - [Toggl Track](https://toggl.com/track/) - Lightweight time tracking when full FSM is overkill.
 - [Loom](https://loom.com) - Video walkthroughs for remote troubleshooting and training.
